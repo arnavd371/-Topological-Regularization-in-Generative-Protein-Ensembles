@@ -1,0 +1,8 @@
+torch>=2.0.0
+gudhi>=3.9.0
+biopython>=1.81
+numpy
+scipy
+matplotlib
+pyyaml
+tqdm
